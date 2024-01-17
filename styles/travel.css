@@ -416,4 +416,10 @@ hr {
         width: 250px;
         margin-bottom: 40px;
     }
+
+    hr {
+        width: 335px;
+        height: 1px;
+        background: rgba(19, 19, 24, 0.10);
+    }
 }
