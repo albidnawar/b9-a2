@@ -315,7 +315,9 @@ hr {
     height: 1px;
     background: rgba(19, 19, 24, 0.10);
 }
-
+.footer-icons i{
+    margin-right: 10px;
+}
 @media screen and (max-width: 600px) {
     header>nav>ul {
         display: none;
